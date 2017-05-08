@@ -13,3 +13,4 @@ http://stackoverflow.com/questions/9453731/how-to-calculate-distance-similarity-
 
 It's a Console program where you enter two strings, and it will print the distance using all 4 versions of the algorithm. It will also print the internal matrix used when calculating the distance.
 
+OBS: There are much better versions of the algorithms out there, I just coded this to learn how it works!
