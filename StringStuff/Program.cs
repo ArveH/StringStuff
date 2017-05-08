@@ -25,7 +25,7 @@ namespace StringStuff
                 Wikipedia.OSA_Distance(source, target);
                 Wikipedia.DL_Distance(source, target);
 
-                var distance = DamerauLevenshteinDistance.Distance(source, target);
+                var distance = StackOverflow.Distance(source, target);
                 Console.WriteLine("StackOverflow: {0}", distance);
 
                 Console.WriteLine();

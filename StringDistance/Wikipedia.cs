@@ -5,10 +5,9 @@ namespace StringDistance
     /// <summary>
     /// The algorithms found here:
     ///   https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance
-    /// Rough translation of the pseudo code given to c#, without any concerns
-    /// for nice code, or performance
+    /// Rough translation from the pseudo code given, to c#.
     /// 
-    /// It will print the matrix used to the Console
+    /// It will print the internal matrix.
     /// </summary>
     public static class Wikipedia
     {

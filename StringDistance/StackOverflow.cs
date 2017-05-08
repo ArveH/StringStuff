@@ -3,8 +3,11 @@ using System.Linq;
 
 namespace StringDistance
 {
-    // http://stackoverflow.com/questions/9453731/how-to-calculate-distance-similarity-measure-of-given-2-strings/9454016#9454016
-    public class DamerauLevenshteinDistance
+    /// <summary>
+    /// Source code found here:
+    /// http://stackoverflow.com/questions/9453731/how-to-calculate-distance-similarity-measure-of-given-2-strings/9454016#9454016
+    /// </summary>
+    public class StackOverflow
     {
         public static int Distance(string source, string target)
         {

@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DamerauLevenshteinDistance.cs" />
+    <Compile Include="StackOverflow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Wikipedia.cs" />
   </ItemGroup>
